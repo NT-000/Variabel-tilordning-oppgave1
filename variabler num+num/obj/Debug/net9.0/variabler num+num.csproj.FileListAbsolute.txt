@@ -1,0 +1,15 @@
+C:\Users\nicth\Documents\GitHub\variabler num+num\bin\Debug\net9.0\variabler num+num.exe
+C:\Users\nicth\Documents\GitHub\variabler num+num\bin\Debug\net9.0\variabler num+num.deps.json
+C:\Users\nicth\Documents\GitHub\variabler num+num\bin\Debug\net9.0\variabler num+num.runtimeconfig.json
+C:\Users\nicth\Documents\GitHub\variabler num+num\bin\Debug\net9.0\variabler num+num.dll
+C:\Users\nicth\Documents\GitHub\variabler num+num\bin\Debug\net9.0\variabler num+num.pdb
+C:\Users\nicth\Documents\GitHub\variabler num+num\obj\Debug\net9.0\variabler num+num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicth\Documents\GitHub\variabler num+num\obj\Debug\net9.0\variabler num+num.AssemblyInfoInputs.cache
+C:\Users\nicth\Documents\GitHub\variabler num+num\obj\Debug\net9.0\variabler num+num.AssemblyInfo.cs
+C:\Users\nicth\Documents\GitHub\variabler num+num\obj\Debug\net9.0\variabler num+num.csproj.CoreCompileInputs.cache
+C:\Users\nicth\Documents\GitHub\variabler num+num\obj\Debug\net9.0\variabler num+num.sourcelink.json
+C:\Users\nicth\Documents\GitHub\variabler num+num\obj\Debug\net9.0\variabler num+num.dll
+C:\Users\nicth\Documents\GitHub\variabler num+num\obj\Debug\net9.0\refint\variabler num+num.dll
+C:\Users\nicth\Documents\GitHub\variabler num+num\obj\Debug\net9.0\variabler num+num.pdb
+C:\Users\nicth\Documents\GitHub\variabler num+num\obj\Debug\net9.0\variabler num+num.genruntimeconfig.cache
+C:\Users\nicth\Documents\GitHub\variabler num+num\obj\Debug\net9.0\ref\variabler num+num.dll
